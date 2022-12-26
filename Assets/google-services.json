@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "517112090860",
+    "project_id": "nunuwini",
+    "storage_bucket": "nunuwini.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:517112090860:android:481b6ae930896658ddd5c9",
+        "android_client_info": {
+          "package_name": "win.app.winline.vinline.soe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "517112090860-rhcqmk1hcju9ibmt44cv1jav1r3pefct.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSw5OOg1GdPeTOUVVFyCwPx7kFQYhseBM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "517112090860-rhcqmk1hcju9ibmt44cv1jav1r3pefct.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
